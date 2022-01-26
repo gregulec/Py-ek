@@ -1,0 +1,7 @@
+C:\Users\Agnieszka\source\repos\Pyłek\Pyłek\bin\Debug\Pyłek.exe.config
+C:\Users\Agnieszka\source\repos\Pyłek\Pyłek\bin\Debug\Pyłek.exe
+C:\Users\Agnieszka\source\repos\Pyłek\Pyłek\bin\Debug\Pyłek.pdb
+C:\Users\Agnieszka\source\repos\Pyłek\Pyłek\obj\Debug\Pyłek.csprojAssemblyReference.cache
+C:\Users\Agnieszka\source\repos\Pyłek\Pyłek\obj\Debug\Pyłek.csproj.CoreCompileInputs.cache
+C:\Users\Agnieszka\source\repos\Pyłek\Pyłek\obj\Debug\Pyłek.exe
+C:\Users\Agnieszka\source\repos\Pyłek\Pyłek\obj\Debug\Pyłek.pdb
